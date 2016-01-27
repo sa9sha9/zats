@@ -1,0 +1,12 @@
+/* charset */
+@charset "utf-8";
+
+#review_main
+h4,
+h5 {
+  list-style-type: none;
+}
+
+#review_all h4 {
+  list-style-type:none;
+}
