@@ -1,11 +1,11 @@
 /* charset */
 @charset "utf-8";
 
-h4,
+li h4,
 h5 {
   list-style-type: none;
 }
 
-h4 {
+li h4 {
   list-style-type:none;
 }
